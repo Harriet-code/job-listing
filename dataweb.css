@@ -1,0 +1,83 @@
+body, html {
+    padding: o;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header-navbar{
+    background: #0c0f38;
+    width: 100%;
+    padding: 40px 40px 40px 40px;
+    box-sizing: border-box !important;
+     background-repeat: no-repeat;
+     padding-bottom: 90px;
+     height: 10vh;
+     display: flex;
+}
+.navlink{
+    
+    
+    padding: 0 50px;
+    color: #ffffff;
+    box-sizing: border-box !important;
+    display: inline-flex;
+    line-height: 20px;
+    outline: none !important;
+    list-style: none;
+  text-align: left;
+}
+
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
+.container-fluid{
+    background:#182091;
+    background-size: cover;
+    height: 100vh;
+    background-position: 100%;
+    width: 100%;
+    display: flex;
+}
+.image{
+    margin-left: 500px;
+    max-width: 100%;
+
+}
+.span{
+    color: #fdd430;
+    font-size: 40px;
+    line-height: 35px;
+    font-weight: bold;
+}
+.p{
+    color: #fff;
+    font-size: 17px;
+    line-height: 28px;
+    padding: 40px 0;  
+}
+.h1{
+    color: #fff;
+    font-size: 60px;
+    line-height: 80px;
+    padding-bottom: 25px;
+    font-weight: bold;
+}
+.a{
+    font-size: 16px;
+    background-color: #fff;
+    color: #000;
+    padding: 10px 0px;
+    width: 100%;
+    max-width: 190px;
+    text-align: center;
+    display: inline-block;
+    text-transform: uppercase;
+}
+ .a:hover {
+    background-color: #000;
+    color: #fff;
+}

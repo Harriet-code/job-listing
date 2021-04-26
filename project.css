@@ -1,0 +1,248 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    background: #effafa;
+    font-family: "Barlow Semi Condensed", sans-serif;
+   
+}
+.container{
+    align-items: center;
+    padding-right: 50px;
+    background-color: #ecf2f8;
+    min-height: 100vh;
+    display: grid;
+    align-content: center;
+    margin-left: 30px;
+    margin-right: 30px;
+   padding-left: 40px;
+   padding-right: 20px;
+   max-width: 100%;
+ 
+}
+.main__container{
+    display: flex;
+    flex-direction: row;
+    gap: 2.5rem;
+    box-sizing: border-box;
+    background: #ecf2f8;
+    margin: 0;
+    padding: 0;
+    
+}
+.container-first{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 3rem;
+    justify-content: center;
+    box-sizing: border-box;
+    background: #7541c8;
+    color: #ffff;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    margin-top:30px ;
+    margin-bottom: 130px;
+    max-width: 60rem;
+}
+.quote{
+    font-size: 15px;
+    line-height: 1.618;
+    opacity: 0.7;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-quote{
+    font-size: 2rem;
+    font-weight: 500;
+   margin: 1.618rem 0; 
+   padding: 0;
+   box-sizing: border-box;
+   font-size: 20px;
+  
+}
+.container-header-text{
+    display: flex;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+   
+}
+.graduate{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   opacity: 0.5;
+   font-size: 1.1rem;
+}
+.paragraph-text{
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 1.1rem;
+}
+
+.header-img{
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 1.5rem;
+    margin-top: 2px;
+    border: 2px solid #915fe0;
+    box-sizing: border-box;
+}
+.container-second{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 2.5rem 3rem;
+    justify-content: center;
+    box-sizing: border-box;
+    background: #48556a;;
+    color: #ffff;
+    margin: 1.618rem 0;
+    width: 30rem;
+
+}
+.container__image{
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 1.5rem;
+    margin-top: 2px;
+    border: 2px solid #915fe0;
+    box-sizing: border-box; 
+}
+.container__header{
+    display: flex;
+}
+.graduate__text{
+    opacity: 0.7;
+}
+.main__quote{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1.618rem 0;
+}
+
+.container__third{
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    color: #697384;
+    border-radius: 8px;
+    padding: 2.5rem 3rem;
+   margin:0;
+    box-sizing: border-box; 
+}
+.container__header{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container__graduate{
+    opacity: 0.7;
+}
+.container__mainquote{
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 1.618rem 0;
+    box-sizing: border-box;
+}
+.container__quote{
+    box-sizing: border-box;
+    color: #48556a;
+    line-height: 1.618;
+    opacity: 0.7;
+    font-size: 1.45rem;
+    padding: 0;
+    margin: 0;
+}
+
+.container__fourth{
+    display: flex;
+    flex-direction: column;
+    background: #19212e;
+    color: #ffff;
+    border-radius: 8px;
+    padding: 2.5rem 3rem;
+   margin:0;
+    box-sizing: border-box; 
+}
+.container__header__fourth{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container__graduate{
+    opacity: 0.7;
+}
+.container__mainquote{
+    font-size: 10px;
+    font-weight: 500;
+    margin: 1.618rem 0;
+    box-sizing: border-box;
+}
+
+.container__quote{
+    box-sizing: border-box;
+    color: #48556a;
+    line-height: 1.618;
+    opacity: 0.7;
+    font-size: 1.45rem;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container__fifth{
+    display: flex;
+    flex-direction: column;
+    background:#ffffff;
+    color:#7e8796;
+    border-radius: 8px;
+    padding: 2.5rem 5rem;
+   margin:0;
+   margin-top: 40px;
+    box-sizing: border-box; 
+}
+.container__header__fifth{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container__graduate{
+    opacity: 0.7;
+}
+.container__mainquote{
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 1.618rem 0;
+    box-sizing: border-box;
+}
+
+.container__quote{
+    box-sizing: border-box;
+    color: #48556a;
+    line-height: 1.618;
+    opacity: 0.7;
+    font-size: 1.45rem;
+    padding: 0;
+    margin: 0;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
